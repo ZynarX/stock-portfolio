@@ -149,10 +149,6 @@ bool Portfolio::RemoveStock(std::string symbol, int shares_to_sell)
     
     return false;
 }
-void Portfolio::UpdateMarketPrice(Stock* stock, float new_price)
-{
-
-}
 
 void Portfolio::set_name(std::string name)
 {
