@@ -30,7 +30,7 @@ All built entirely with C++ without using any external libraries.
 
 ## TECHNOLOGIES USED
 
- - **C++17**
+ - **C++11**
  - **Standard Template Library (STL)**: `iostream`, `vector`, `string`, `fstream`
  - **Object-Oriented Programming (OOP)**: Structured around `Portfolio` and `Stock` classes
  - **FileIO**: Load portfolio data from a `csv` file
